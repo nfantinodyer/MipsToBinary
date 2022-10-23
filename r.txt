@@ -1,0 +1,4 @@
+add rd,rs,rt
+sll rd,rt,sa
+srl rd,rt,sa
+sub rd,rs,rt

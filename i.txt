@@ -1,0 +1,5 @@
+addi rt,rs,imm	
+beq rs,rt,label		
+bne rs,rt,label	
+lw rt,imm(rs)	
+sw rt,imm(rs)
